@@ -1,0 +1,32 @@
+
+
+Objective 1
+Find the overall most popular girl and boy names and show how they have changed in popularity rankings over the years
+
+Find the names with the biggest jumps in popularity from the first year of the data set to the last year
+
+
+
+Objective 2
+For each year, return the 3 most popular girl names and 3 most popular boy names
+
+For each decade, return the 3 most popular girl names and 3 most popular boy names
+
+
+
+
+Objective 3
+Return the number of babies born in each of the six regions (NOTE: The state of MI should be in the Midwest region)
+
+Return the 3 most popular girl names and 3 most popular boy names within each region
+
+
+
+
+
+Objective 4
+Find the 10 most popular androgynous names (names given to both females and males)
+
+Find the length of the shortest and longest names, and identify the most popular short names (those with the fewest characters) and long names (those with the most characters)
+
+The founder of Maven Analytics is named Chris. Find the state with the highest percent of babies named "Chris"
