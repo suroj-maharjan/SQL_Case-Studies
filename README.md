@@ -15,6 +15,8 @@ These projects cover sports, aviation, healthcare, and retail sales, with a focu
 03	✈️ Flight Data Analysis	Aviation	Flight operations and trends
 04	🏥 Hospital Data Analysis	Healthcare	Patients, treatments, and hospital operations
 05	🛒 Superstore Sales Analysis	Retail	Sales, customers, products, and shipping
+06      Baby Name Trend Analysis
+07      Hospital Patient Records
 
 
 
@@ -26,7 +28,7 @@ The purpose of this repository is to build and demonstrate practical SQL data an
 🛠️ SQL Skills Demonstrated
 Across these case studies, the projects demonstrate practical use of:
 
-SELECT statements
+SELECT, INSERT, UPDATE and DELETE statements
 Filtering with WHERE
 Sorting and grouping
 Aggregate functions
@@ -36,5 +38,5 @@ Subqueries
 Common Table Expressions (CTEs)
 Window functions
 Date and time functions
-Data exploration
+Data exploration and validation
 Business-focused analysis
